@@ -80,7 +80,7 @@ In conclusion, Azure Durable Functions move serverless computing forward in prac
 
 ### AI Disclosure Statement
 
-AI tools were used in a limited and transparent manner to support this assignment. ChatGPT was used to assist with summarizing the assigned research paper, organizing ideas, and improving structure in written explanations. All analysis, interpretation, and final content were reviewed, edited, and validated to ensure accuracy and understanding.
+AI tools were used in a limited and transparent manner to support this assignment. ChatGPT was used to organizing ideas, and improving structure in written explanations. All analysis, interpretation, and final content were reviewed, edited, and validated to ensure accuracy and understanding.
 
 
 
